@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Футбольный вестник</string>
+    <string name="stadium">Стадион:</string>
+    <string name="referee">Судья:</string>
+    <string name="status">Статус:</string>
+    <string name="noMatchesFound">Извините, в указанные даты мы не смогли найти ни одного матча</string>
+    <string name="chosenRange">Даты, которые вы указали:</string>
+    <string name="selectStartDate">Пожалуйста, выберите дату начала</string>
+    <string name="selectEndDate">Пожалуйста, выберите дату окончания</string>
+    <string name="dateSelection">Выбор даты</string>
+    <string name="whyNeedDate">Пожалуйста, выберите период времени, в который хотите видеть матчи</string>
+    <string name="additionalActions">Дополнительные действия</string>
+    <string name="goWebsite">Перейти на сайт</string>
+    <string name="premier_ru">Premier League</string>
+    <string name="premier">Premier League</string>
+    <string name="fa">FA Cup</string>
+    <string name="la">LA Liga</string>
+    <string name="league_1">League 1</string>
+    <string name="welcome">Добро пожаловать в Футбольный Вестник!!!</string>
+    <string name="league_chose">Выбрать Лигу</string>
+    <string name="no_internet">Ваше подключение к Интернету нестабильно, пожалуйста, повторите попытку позже</string>
+    <string name="error"> Что-то пошло не так, попробуйте позже</string>
+</resources>

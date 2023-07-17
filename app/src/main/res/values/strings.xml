@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FootballBroadcast</string>
+    <string name="stadium">Stadium:</string>
+    <string name="referee">Referee:</string>
+    <string name="status">Status:</string>
+    <string name="noMatchesFound">Sorry, at chosen dates range we can not find any events</string>
+    <string name="chosenRange">Chosen dates range:</string>
+    <string name="selectStartDate">Please, select a start date</string>
+    <string name="selectEndDate">Please, select the end date</string>
+    <string name="dateSelection">Date selection</string>
+    <string name="whyNeedDate">Please, chose the period of time when you want to see events</string>
+    <string name="additionalActions">Additional actions</string>
+    <string name="goWebsite">Go to the website</string>
+    <string name="premier_ru">Premier League</string>
+    <string name="premier">Premier League</string>
+    <string name="fa">FA Cup</string>
+    <string name="la">LA Liga</string>
+    <string name="league_1">League 1</string>
+    <string name="welcome">Welcome to Football Broadcast!!!</string>
+    <string name="league_chose">Chose League</string>
+    <string name="no_internet">Your connection to Internet is unstable, please try again later</string>
+    <string name="error"> Oops something went wrong, please try again later</string>
+</resources>
